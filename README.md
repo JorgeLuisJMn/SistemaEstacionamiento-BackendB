@@ -1,7 +1,11 @@
 # sistemaestacionamiento
+
 enlace a mi repositorio = https://github.com/JorgeLuisJMn
+
 nombre: = Jorge Luis 
+
 nº control: = 18350319
+
 clase: Desarrollo Backend       grupo: b     
 
 
@@ -28,6 +32,7 @@ actividades realisadas en clase y fueras de ella:
       https://github.com/JorgeLuisJMn/Sis-album-music-backend
       
  <<----------------------------------------------------------------->>
+ 
     d)proeyecto Final "SisEstacionamiento" --> Retomando todo lo visto
       en clases y la livertad creativa se desarrolla esta api
       tomando en cuenta estos puntos:
