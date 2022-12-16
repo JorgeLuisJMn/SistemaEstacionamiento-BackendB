@@ -8,7 +8,8 @@ clase: Desarrollo Backend       grupo: b
 # PorqueDeberiaDePasarLaMateria
 actividades realisadas en clase y fueras de ella:
  
-    a)proyecto BackendBasesB -->esta fue realizada en clases durante 	   toda la unidad, dando enfasis en el aprendisaje de los
+    a)proyecto BackendBasesB -->esta fue realizada en clases durante 	   
+      toda la unidad, dando enfasis en el aprendisaje de los
       fundamentos de backend 
       https://github.com/JorgeLuisJMn/backendBaseB
  <<---------------------->>     
